@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+.seccion1{
+    float: left;
+    background-color: aqua;
+    
+}
+#seccion2{
+    float: right;
+    background-color: green;
+}
